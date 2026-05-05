@@ -35,4 +35,5 @@ Le projet est organisé comme suit :
 
 ## Section auteur
 **Auteur** : MKDataInsight 
+
 **Date** : 2026-01-02
